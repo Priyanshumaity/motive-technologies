@@ -3,5 +3,6 @@ tsconfig*.json
 vite.config.ts
 .probe
 node_modules/
+public/
 dist/
 .git/
