@@ -1,0 +1,8 @@
+# The site is a self-contained static build.
+src/
+tsconfig*.json
+vite.config.ts
+.probe
+node_modules/
+dist/
+.vercel/
